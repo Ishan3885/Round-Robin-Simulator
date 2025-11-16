@@ -12,6 +12,7 @@ struct Process {
 };
 
 int main() {
+    int n, quantum;
     cout << "Enter number of processes: ";
     cin >> n;
     
